@@ -1,0 +1,5 @@
+baseURL = "http://brantv.github.io/"
+languageCode = "en-us"
+title = "Brant V's iXperience Page"
+theme = "gohugo-theme-ananke"
+
