@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2018-06-25T19:53:42-04:00
-draft: true
+draft: false
 ---
 I don't think this poker project has to be that complex.  Right off the bat,
 I would have a user enter how many players there will be.  I would create
