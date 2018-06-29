@@ -22,5 +22,4 @@ highest, and a pair being the lowest.  It would also have to compare the
 highest card in that hand if another player happens to have the same hand.
 
 Current build of poker game:
-https://github.com/brantv/ixperience_2018_personal.git
-Under assignments -> Projects -> Poker -> poker_game.py
+https://github.com/brantv/poker.git
